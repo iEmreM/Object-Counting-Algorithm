@@ -1,6 +1,6 @@
 # Object-Counting-Algorithm
 
-It is an image processing algorithm developed to count objects. It doesn't contain neural networks, it's simple and fast. Simply, it detects groups of connected colors different from the background.
+It is an image processing algorithm developed to count objects. It doesn't contain neural networks, it's simple and fast. Basicly, it detects groups of connected colors different from the background.
 <br />
 
 ## How does it work?
